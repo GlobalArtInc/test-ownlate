@@ -3,3 +3,5 @@ files:
     translation: src/test-json/{lang}.json
   - source: src/test-yaml/en_US.yaml
     translation: src/test-yaml/{lang}.yaml
+  - source: src/test-po/en_US.po
+    translation: src/test-po/{lang}.po
