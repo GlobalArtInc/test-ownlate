@@ -1,3 +1,5 @@
 files:
   - source: src/test-json/en.json
-    translation: src/{lang}.json
+    translation: src/test-json/{lang}.json
+  - source: src/test-yaml/en.yaml
+    translation: src/test-yaml/{lang}.yaml
